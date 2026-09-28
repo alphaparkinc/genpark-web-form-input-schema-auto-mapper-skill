@@ -1,0 +1,26 @@
+{
+  "name": "genpark-web-form-input-schema-auto-mapper-skill",
+  "version": "1.0.0",
+  "description": "Autonomous web form inspector and schema auto-mapper matching input attributes, autocomplete hints, and regex validations to agent state.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "web-forms",
+    "form-automation",
+    "schema-mapping",
+    "browser-agent",
+    "input-validator",
+    "zero-dependency",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "map_form_fields",
+      "description": "Map web form inputs to agent profile fields."
+    },
+    {
+      "name": "run_benchmark_form_mapper",
+      "description": "Run form auto-mapper benchmark."
+    }
+  ]
+}
